@@ -3,4 +3,4 @@ Puting the AWS CLI version 2 Docker image
 
 # Docker Hub
 - [All Repositories](https://hub.docker.com/u/javiortizmol)
-- [aws_sso_magic](https://hub.docker.com/r/javiortizmol/aws_cli_v2)
+- [aws_cli_v2](https://hub.docker.com/r/javiortizmol/aws_cli_v2)
